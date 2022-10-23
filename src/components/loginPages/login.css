@@ -1,0 +1,28 @@
+.body {
+    background: linear-gradient(110deg, #f5b301 60%, #fed053 60%);
+    min-height: 100vh;
+}
+.h1class {
+    padding-top: 20px;
+}
+.lineclass {
+   height: 2px;
+   background-color: #1e2328;
+   margin: 0px;
+}
+.cardclass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 40px 0;
+    color: #1e2328;
+   
+}
+.card1 {
+    width: 500px;
+    background-color: rgba(255, 255, 255, 0.4);
+    margin: 10px;
+    border-radius: 20px;
+    min-height: 300px;
+}
