@@ -8,7 +8,7 @@ import google from './assests/google.png';
 
 
 const AddRuleLogin = () => {
-  const [status1 ,setStatus] = useState("signup");
+  const [status1 ,setStatus] = useState("login");
   return (
     <div className='body'>
       <h1>RULE EDITOR FRAMEWORK</h1>

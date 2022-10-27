@@ -6,7 +6,7 @@ import './AddRuleLogin.css'
 const AddRuleLogin_login = () => {
   return (
     <div className='container'>
-      <h1>Login</h1>
+      <h1>Rule Adder Login</h1>
       <hr />
       <form className='formcode'>
         <input className="email form-control form-control-lg" type="email" placeholder="Email" aria-label="Email" />

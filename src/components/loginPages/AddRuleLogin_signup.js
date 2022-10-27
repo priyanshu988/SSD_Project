@@ -5,7 +5,7 @@ import './AddRuleLogin.css'
 const AddRuleLogin_signup = () => {
   return (
     <div className='container'>
-      <h1>Register</h1>
+      <h1>Rule Adder Register</h1>
       <hr />
       <form className='formcode'>
       <input className="email form-control form-control-lg" type="text" placeholder="Full Name" aria-label="full_name" />
